@@ -29,7 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./my-design.png)
+![](design/my-design.png)
+![](design/my-design-2.png)
+![](design/my-design-3.png)
 
 
 ### Links
