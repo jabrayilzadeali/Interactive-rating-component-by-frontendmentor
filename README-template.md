@@ -34,8 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site: [here](https://jabrayilzadeali.github.io/Interactive-rating-component-by-frontendmentor/)
 
 ## My process
 
@@ -169,7 +168,7 @@ button {
 
 button:hover {
 	background-color: var(--Orange) !important;
-	color: var(--White);
+	color: var(--White) !important;
 	cursor: pointer;
 }
 
@@ -278,9 +277,3 @@ submit.onclick = () => {
 - Github - [jabrayilzadeali](https://github.com/jabrayilzadeali)
 - Frontend Mentor - [Jabrayilzade Ali](https://www.frontendmentor.io/profile/jabrayilzadeali)
 - Twitter - [Jabrayilzade Ali](https://twitter.com/JabrayilzadeAli)
-
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
